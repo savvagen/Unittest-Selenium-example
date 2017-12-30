@@ -1,0 +1,14 @@
+setuptools
+wheel
+selenium
+pytest
+pytest-listener
+pytest-html
+testcontainers
+ddt
+webdriver_manager
+allure-pytest
+test_recorder
+docker-compose
+requests
+PyHamcrest

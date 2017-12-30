@@ -1,0 +1,3 @@
+[nose.plugins]
+browser_closer = webium.plugins.browser_closer:BrowserCloserPlugin
+
